@@ -1,0 +1,9 @@
+{
+	"name": "databricks-neto",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5d2d0753-fd3e-4c8c-b036-42037d68c979",
+		"tenantId": "1b1585db-fa56-463e-97bb-b7bec5266e32"
+	}
+}
